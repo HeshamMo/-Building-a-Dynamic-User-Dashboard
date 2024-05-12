@@ -32,7 +32,6 @@ The application employs appropriate CSS frameworks and custom styling to create 
 
 ## Main Features 
 ![image](https://github.com/HeshamMo/-Building-a-Dynamic-User-Dashboard/assets/85097712/3b283b73-1524-437e-9a03-97c9f980c92b)
-![image](https://github.com/HeshamMo/-Building-a-Dynamic-User-Dashboard/assets/85097712/89b28c7a-296e-45eb-9a04-18f81a84dd18)
 ![image](https://github.com/HeshamMo/-Building-a-Dynamic-User-Dashboard/assets/85097712/797fe01b-1401-4ef6-a688-32f809c1cad3)
 ![image](https://github.com/HeshamMo/-Building-a-Dynamic-User-Dashboard/assets/85097712/01aff5f4-6d1a-4ec9-8d3b-ff2101b4afab)
 ![image](https://github.com/HeshamMo/-Building-a-Dynamic-User-Dashboard/assets/85097712/0f8deb03-a7f1-4760-952c-43023f05a225)

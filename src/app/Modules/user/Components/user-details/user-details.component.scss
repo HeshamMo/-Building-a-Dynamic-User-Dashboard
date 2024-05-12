@@ -1,0 +1,12 @@
+@import '../../../../Styles/colors.scss';
+
+.card{
+    background-color: $accent1;
+}
+
+.card-body{
+    color:$accent2
+}
+.card-container{
+    color: $accent2 !important; 
+}

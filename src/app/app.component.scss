@@ -1,0 +1,18 @@
+
+@import './styles/colors.scss'; 
+
+.container-fluid {    
+      background: $primary;
+      min-height: 100vh;
+}
+*{
+  background-color:$primary;
+  
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
